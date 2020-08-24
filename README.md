@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello World 👋
+![dnyPls](https://cdn.betterttv.net/emote/5e51dba108b4447d56a94e24/3x)
+![HUGGERS](https://cdn.betterttv.net/emote/5ee959c210aaa55e2949060d/3x)
+![HACKERMANS](https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/3x)
 
-<!--
-**NyCodeGHG/NyCodeGHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nico aka. NyCode. I'm a high school student from Germany. Sometimes I stream [here](https://twitch.tv/NyCodeGHG) on twitch.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [NyCodeGHG/Roro](https://github.com/NyCodeGHG/Roro).
+- 🌱 I’m currently learning [Kotlin Multiplatform](https://kotlinlang.org/docs/reference/multiplatform.html)
+- 🤔 I’m looking for help with [NyCodeGHG/Roro](https://github.com/NyCodeGHG/Roro) 🙃
+- 💬 Ask me about [Kotlin](https://kotlinlang.org)
+- 📫 How to reach me: [Twitter](https://twitter.com/NyCodeGHG)
+- ⚡ Fun fact: I'm only 14 years old.
