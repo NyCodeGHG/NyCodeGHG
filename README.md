@@ -9,5 +9,5 @@ I'm Nico aka. NyCode. I'm a high school student from Germany. Sometimes I stream
 - 🌱 I’m currently learning [Kotlin Multiplatform](https://kotlinlang.org/docs/reference/multiplatform.html)
 - 🤔 I’m looking for help with [NyCodeGHG/Roro](https://github.com/NyCodeGHG/Roro) 🙃
 - 💬 Ask me about [Kotlin](https://kotlinlang.org)
-- 📫 How to reach me: [Twitter](https://twitter.com/NyCodeGHG)
+- 📫 How to reach me: [Twitter](https://twitter.com/NyCodeGHG) or via [email](mailto:nycode@protonmail.com)
 - ⚡ Fun fact: I'm only 14 years old.
