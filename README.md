@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [NyCodeGHG/Roro](https://github.com/NyCodeGHG/Roro)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform**
+- 🌱 I’m currently learning **Cyber Security with [TryHackMe](https://tryhackme.com)**
 
 - 🤝 I’m looking for help with [NyCodeGHG/Roro](https://github.com/NyCodeGHG/Roro)
 
