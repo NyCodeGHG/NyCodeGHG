@@ -4,11 +4,11 @@
 <img src="https://cdn.betterttv.net/emote/5e51dba108b4447d56a94e24/3x"></h1>
 <h3 align="center">A high school student from Germany</h3>
 
-- 🔭 I’m currently working on [NyCodeGHG/Roro](https://github.com/NyCodeGHG/Roro)
+- 🔭 I’m currently working on **a private project**
 
 - 🌱 I’m currently learning **Cyber Security with [TryHackMe](https://tryhackme.com)**
 
-- 🤝 I’m looking for help with [NyCodeGHG/Roro](https://github.com/NyCodeGHG/Roro)
+- 🤝 I’m looking for help with **Hmmm**
 
 - 💬 Ask me about **Kotlin**
 
