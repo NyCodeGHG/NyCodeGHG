@@ -3,6 +3,8 @@ Hello World 👋, I'm NyCode
 </h1>
 <h3 align="center">A high school student from Germany</h3>
 
+![GitHub metrics](https://github.com/NyCodeGHG/NyCodeGHG/blob/master/github-metrics.svg)
+
 Mostly doing stuff with minecraft and [Spigot](https://spigotmc.org). Currently working on among us in minecraft (closed source, maybe open source in the future) and experimenting with the minecraft protocol [here](https://github.com/NyCodeGHG/minecraft-server).
 
 I stream sometimes on Twitch.
