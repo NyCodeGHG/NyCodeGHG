@@ -5,7 +5,7 @@ Hello World 👋, I'm NyCode
 
 ![GitHub metrics](https://github.com/NyCodeGHG/NyCodeGHG/blob/master/github-metrics.svg)
 
-Mostly doing stuff with minecraft and [Spigot](https://spigotmc.org). Currently working on among us in minecraft (closed source, maybe open source in the future) and experimenting with the minecraft protocol [here](https://github.com/NyCodeGHG/minecraft-server).
+Mostly doing stuff with minecraft and [Spigot](https://spigotmc.org)/[Paper](https://papermc.io).
 
 I stream sometimes on Twitch.
 
