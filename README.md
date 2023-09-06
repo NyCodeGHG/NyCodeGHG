@@ -2,6 +2,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nycodeghg)
 
-You can reach me using the social media links on [my website](https://marie.cologne).
-
-You can find some of my projects pinned below.
+You can find some of my projects and projects I've contributed to pinned below.
